@@ -83,12 +83,17 @@
       {
         "label": "Support",
         "href": "mailto:hi@mintlify.com"
+      },
+      {
+        "label": "Discord",
+        "type": "discord",
+        "href": "https://discord.gg/animiru"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Retourner sur le site",
+      "href": "https://animiru.fr"
     }
   },
   "contextual": {
@@ -116,5 +121,8 @@
       "title": "Page non trouvée",
       "description": "Je pense que tu as été transporté dans un monde qui n'existe pas..."
     }
+  },
+  "banner": {
+    "content": "🚧 Le site est en cours de construction 🚧"
   }
 }
